@@ -24,15 +24,22 @@ Sub-G Smart Agriculture 은 AxDen 의 Aggregator Platform 를 이용하여 온�
 1Km 의 이상의 장거리 통신이 필요한 다양한 서비스 시나리오를 빠르게 테스트 할 수 있도록 제공하는 예제입니다.
 <br>
 <br>
+관련 하드웨어 키트는 네이버 스마트 스토어에서 구매 가능합니다.
+<br>
+[구매링크 : 네이버 스마트 스토어](https://smartstore.naver.com/axden)
+<br>
+<br>
 Sub-G Smart Agriculture uses AxDen's Aggregator Platform to collect key sensor information necessary for Smart Agriculture such as temperature, barometric pressure, and illuminance.
 <br>
 This is an example that provides quick testing of various service scenarios that require long-distance communication of 1Km or more.
 <br>
+<br>
+Related hardware kits can be purchased from the Naver Smart Store.
+<br>
+[Purchase Link : naver smart store](https://smartstore.naver.com/axden)
 
-네이버 스마트 스토어에서 구매 가능합니다.
 <br>
 
-[네이버 스마트 스토어](https://smartstore.naver.com/axden)
 <br>
 
 ### Sub-G Smart Agriculture 의 주요 특징 및 기능
