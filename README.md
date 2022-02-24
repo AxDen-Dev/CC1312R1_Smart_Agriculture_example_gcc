@@ -68,7 +68,9 @@ After connecting the adapter board and the Sub-G Smart Agriculture sensor to the
 Enter COMPANY ID nad DEVCIE ID provided on the AXDEN Aggregator Platform website into COMPANY_ID and DEVCIE_ID in the Protocol.h header file.
 <br>
 <br>
+
 [AXDEN Aggregator Platfrom](http://project.axden.io/)
+
 <br>
 `#define COMPANY_ID 0`
 <br>
