@@ -28,6 +28,7 @@ Related hardware kits can be purchased from the Naver Smart Store.
 <br>
 [Purchase Link : naver smart store](https://smartstore.naver.com/axden)
 <br>
+You can purchase it by contacting sales@axden.io
 <br>
 
 *\* Low-power technology with TI Sensor Controller is available in the Production version family.*
