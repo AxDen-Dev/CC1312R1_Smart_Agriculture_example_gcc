@@ -36,6 +36,10 @@ You can purchase it by contacting sales@axden.io
 
 ### Key features and functions
 
+MCU | Description
+:-------------------------:|:-------------------------:
+CC1312R1 | TI ROTS, EasyLink
+
 *\* Low-power technology with TI Sensor Controller is available in the Production version family.*
 <br>
 
