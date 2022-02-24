@@ -32,6 +32,10 @@ Related hardware kits can be purchased from the Naver Smart Store.
 You can purchase it by contacting sales@axden.io
 <br>
 
+----
+
+### Key features and functions
+
 *\* Low-power technology with TI Sensor Controller is available in the Production version family.*
 <br>
 
@@ -45,6 +49,9 @@ Soil moisture sensor | On board
 "Sub-G Smart Agriculture" example collects key sensor information required in Smart Agriculture such as temperature, barometric pressure, and illuminance, and transmits it using Sub-G long-distance communication. In conjunction with the AxDen Aggregator Platform, you can check sensor information on the web and mobile without building infrastructure such as servers and DBs, and use the stored sensor information to learn Edge AI.
 <br>
 <br>
+
+----
+
 ### **Check via terminal**
 <br>
 If you have an adapter board, you can check the communication through the terminal.
@@ -63,6 +70,8 @@ After connecting the adapter board and the Sub-G Smart Agriculture sensor to the
 </table>
 <br>
 
+----
+
 ### **Check via AXDEN Aggregator platform**
 <br>
 Enter COMPANY ID nad DEVCIE ID provided on the AXDEN Aggregator Platform website into COMPANY_ID and DEVCIE_ID in the Protocol.h header file.
@@ -80,7 +89,6 @@ Enter COMPANY ID nad DEVCIE ID provided on the AXDEN Aggregator Platform website
 `#define DEVICE_TYPE 0`
 
 <br>
-<br>
 Complie and flash.
 <br>
 <br>
@@ -93,9 +101,15 @@ Sensor information can be found on the Web or Mobile as shown in the image below
 <img src="./asset/axden_aggregator_web.png">
 <br>
 
+----
+
 ## Hardware Pinmap
 You can check in the board_define.h header file.
 
+----
+
 ### [Firmware settings and compilation](https://github.com/AxDen-Dev/CC1312R1_Ping_Pong_example_gcc)
+
+----
 
 ### [Firmware flash](https://github.com/AxDen-Dev/CC1312R1_Ping_Pong_example_gcc)
