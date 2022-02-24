@@ -72,9 +72,13 @@ Enter COMPANY ID nad DEVCIE ID provided on the AXDEN Aggregator Platform website
 [AXDEN Aggregator Platfrom](http://project.axden.io/)
 
 <br>
+
 `#define COMPANY_ID 0`
+
 <br>
+
 `#define DEVICE_TYPE 0`
+
 <br>
 <br>
 Complie and flash.
